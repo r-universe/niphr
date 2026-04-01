@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "csdata"]
+	path = csdata
+	url = https://github.com/niphr/csdata
+[submodule "csdb"]
+	path = csdb
+	url = https://github.com/niphr/csdb
