@@ -1,10 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/niphr/niphr.r-universe.dev
 	branch = HEAD
+[submodule "cs9"]
+	path = cs9
+	url = https://github.com/niphr/cs9
+[submodule "csalert"]
+	path = csalert
+	url = https://github.com/niphr/csalert
 [submodule "csdata"]
 	path = csdata
 	url = https://github.com/niphr/csdata
 [submodule "csdb"]
 	path = csdb
 	url = https://github.com/niphr/csdb
+[submodule "csmaps"]
+	path = csmaps
+	url = https://github.com/niphr/csmaps
+[submodule "csstyle"]
+	path = csstyle
+	url = https://github.com/niphr/csstyle
+[submodule "cstidy"]
+	path = cstidy
+	url = https://github.com/niphr/cstidy
+[submodule "cstime"]
+	path = cstime
+	url = https://github.com/niphr/cstime
+[submodule "csutil"]
+	path = csutil
+	url = https://github.com/niphr/csutil
