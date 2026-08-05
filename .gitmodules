@@ -5,6 +5,9 @@
 [submodule "cs9"]
 	path = cs9
 	url = https://github.com/niphr/cs9
+[submodule "cs9example"]
+	path = cs9example
+	url = https://github.com/niphr/cs9example
 [submodule "csalert"]
 	path = csalert
 	url = https://github.com/niphr/csalert
