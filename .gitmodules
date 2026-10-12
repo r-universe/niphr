@@ -17,6 +17,9 @@
 [submodule "csdb"]
 	path = csdb
 	url = https://github.com/niphr/csdb
+[submodule "csdocs"]
+	path = csdocs
+	url = https://github.com/niphr/csdocs
 [submodule "csmaps"]
 	path = csmaps
 	url = https://github.com/niphr/csmaps
